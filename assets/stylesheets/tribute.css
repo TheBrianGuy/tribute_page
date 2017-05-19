@@ -1,7 +1,51 @@
-.vert-align {
-	border: 2px dashed #f69c55;
-	margin-top: 60px;
-	font-size: 30px;
+.intro {
+	font-size: 15px;
 	font-weight: bold;
-	padding: 25px;
+	text-align: center;
+}
+
+.facts {
+	padding-top: 5px;
+	font-size: 30px;
+}
+
+img {
+	width: 400px;
+}
+
+h1 {
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	line-height: 70px;
+	border-radius: 20px;
+}
+
+.img-background {
+	background-color: rgb(255, 255, 255);
+	border-radius: 20%;
+}
+
+.caption {
+	color: rgb(154, 154, 154);
+	font-style: italic;
+	padding: 10px;
+}
+
+.caption-black {
+	color: rgb(0, 0, 0);
+	font-style: normal;
+	font-weight: bold;
+}
+
+.recognition {
+	padding-top: 5px;
+	padding-left: 115px;
+	font-size: 20px;
+}
+
+.more {
+	color: rgb(154, 154, 154);
+	background-color: rgb(255, 255, 255);
+	border-radius: 20px;
+	padding: 1%;
 }
